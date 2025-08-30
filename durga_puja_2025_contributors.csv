@@ -1,0 +1,24 @@
+name,current_contribution,max_capacity,status,notes
+Manab,26000,40000,active,High capacity prime contributor - can go up to 40K
+Papia,20000,20000,blocked,"Deceased - fixed deposit paying, cannot change"
+Shyamal,20000,20000,blocked,"Personal family constraints, cannot increase"
+Tinku,16000,30000,active,High capacity prime contributor - can go up to 30K
+Krishna,15500,20000,active,"Key contributor, reliable"
+Purnima,15500,20000,active,"Key contributor, reliable"
+Piu,15700,22000,active,"Key contributor, reliable"
+Bharati,13000,17000,active,"Key contributor, reliable"
+Sujash,12000,15000,conditional,Can increase only for catering scenario
+Rama,11000,15000,active,"Key contributor, reliable"
+Bui,10000,14000,active,Regular contributor
+Rekha,10000,14000,active,Regular contributor
+Shukla,6000,9000,conditional,Financial hardship but can help for catering
+Rakhi_MamiMother,6000,6000,blocked,Cannot increase contributions
+Soma,6500,9500,conditional,Can increase only for catering scenario
+Papri_Mahua,5500,5500,blocked,Cannot increase contributions
+Santu,5000,5000,blocked,Cannot increase contributions
+Swarup,3000,3000,excluded,Contribution too small for meaningful increase
+Arup,3000,3000,excluded,Contribution too small for meaningful increase
+Supriya,3000,3000,excluded,Contribution too small for meaningful increase
+Rinki,2000,2000,excluded,Contribution too small for meaningful increase
+Mantu,1000,1000,excluded,Contribution too small for meaningful increase
+Mamoni,1000,1000,excluded,Contribution too small for meaningful increase
